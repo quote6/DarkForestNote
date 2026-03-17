@@ -1,0 +1,133 @@
+file:: [三体全集 (刘慈欣) (Z-Library).pdf"]("D:\英语句子整理\黑暗森林笔记\assets\三体全集 (刘慈欣) (Z-Library).pdf")
+file-path:: ../assets/三体全集 (刘慈欣) (Z-Library).pdf
+
+- “怎样做，你有大概的设想吗？”
+  ls-type:: annotation
+  hl-page:: 457
+  hl-color:: yellow
+  id:: 66a8a40b-7cf1-4b38-94a1-84ebc1c8ca2c
+- 行星防御理事会第一次面壁者听证会已经进行了三天
+  ls-type:: annotation
+  hl-page:: 458
+  hl-color:: yellow
+  id:: 66de495a-8cfc-4475-ac0b-63ad84a14130
+- “罗辑今天还没来吗？”美国代表很不满地问。
+  ls-type:: annotation
+  hl-page:: 458
+  hl-color:: yellow
+  id:: 67023353-6646-49ba-8680-105d8420a2fa
+- 希恩斯说：“我倒是想在此表达对罗辑博士的敬意，他有自知之明，清楚自己的能力，所以不想无谓地浪费资源。”
+  ls-type:: annotation
+  hl-page:: 459
+  hl-color:: yellow
+  id:: 671efc74-6619-4d03-b89f-7e1db4a32259
+- 当史晓明看到父亲进来时，胆怯地向墙角挪了挪，但史强只是默默地坐在他身边。
+  ls-type:: annotation
+  hl-page:: 460
+  hl-color:: yellow
+  id:: 67498c4c-67d3-4256-9a1c-ff62e8c42610
+- 现在，在这个一切都紧张起来的时代，罗辑却成了世界上最悠闲的人。
+  ls-type:: annotation
+  hl-page:: 461
+  hl-color:: yellow
+  id:: 675cf011-4da8-41e4-837b-039ae3cf6306
+- “我要这桶酒，去把它拍下来。”他对坎特说。
+  ls-type:: annotation
+  hl-page:: 462
+  hl-color:: yellow
+  id:: 678f2786-733c-4975-8f2a-472910b694c5
+- 泰勒打伞站在鹿儿岛的细雨中
+  ls-type:: annotation
+  hl-page:: 463
+  hl-color:: yellow
+  id:: 67af414d-db7f-44b0-b11d-9c46a941c773
+- 这个问题似乎使泰勒找到了机会，他兴奋起来
+  ls-type:: annotation
+  hl-page:: 464
+  hl-color:: yellow
+  id:: 67beb3f8-11e9-4a8c-b843-152f4ec6bdff
+- “事情比想象的难。”艾伦对雷迪亚兹说，
+  ls-type:: annotation
+  hl-page:: 465
+  hl-color:: yellow
+  id:: 67cff635-8874-46c8-a810-bf51a3362169
+- “我很激动，雷迪亚兹先生，请原谅我们开始时缺少热情，现在看来这个项目的意义远远超出了建造超级核弹本身，知道我们在做什么吗？我们在创造一颗虚拟的恒星！”
+  ls-type:: annotation
+  hl-page:: 466
+  hl-color:: yellow
+  id:: 67e65090-760d-4d05-ba76-f70ddc6fdace
+- 艾伦接着说：“当时一个叫班布里奇的人紧接着奥本海默说了一句没有诗意的话：现在我们都成了婊子养的。”
+  ls-type:: annotation
+  hl-page:: 467
+  hl-color:: yellow
+  id:: 6804cd20-f2e4-402b-9f31-4577906a5f53
+- “坐飞机的时间太长了吧？你看上去无精打采的。”罗辑看到刚来的史强时说。
+  ls-type:: annotation
+  hl-page:: 468
+  hl-color:: yellow
+  id:: 680ddb81-7594-41f6-b40a-a1a7846061b4
+- 罗辑体内的什么东西好像被点燃了，他站起来，在壁炉前躁动不安地来回走着
+  ls-type:: annotation
+  hl-page:: 469
+  hl-color:: yellow
+  id:: 68280e97-61cf-4294-a2fc-74c7037750fb
+- “她应该出生在一个高级知识分子家庭，过的不是富豪的生活，但比一般人家要富裕得多，她从小到大享受着充分的父爱母爱，但与社会，特别是基层社会接触很少。”
+  ls-type:: annotation
+  hl-page:: 471
+  hl-color:: yellow
+  id:: 683c319e-d037-465c-98df-83f933905e99
+- 罗辑走到电脑旁，又打开它，“给我拷一份。”他边忙活边问，“你能找到她吗？”
+  ls-type:: annotation
+  hl-page:: 472
+  hl-color:: yellow
+  id:: 685b4cd6-8c59-4559-91b7-4692b15f2e53
+- “什么？让PDC为他找……”坎特艰难地寻找着那个中文词，“梦中情人？这个家伙已经被惯得不成样子了！对不起，我不能向上转达你这个请求。”
+  ls-type:: annotation
+  hl-page:: 473
+  hl-color:: yellow
+  id:: 6875ab52-440f-4bb2-852e-6b8b976c4549
+- “大校，以我的身份，来考察贵军的政治思想工作，您是不是觉得有些唐突？”泰勒见到章北海时问
+  ls-type:: annotation
+  hl-page:: 475
+  hl-color:: yellow
+  id:: 6892ba78-ff56-4bab-929f-149d1f96315a
+- 这天傍晚下起了雨，这是罗辑到这里后第一次下雨，客厅里很阴冷。
+  ls-type:: annotation
+  hl-page:: 477
+  hl-color:: yellow
+  id:: 68ae9956-9c2b-4d9e-ab8e-7065ea04e546
+- 看着她捧着酒杯那天真的样子，罗辑心中最柔软的部分被触动了。
+  ls-type:: annotation
+  hl-page:: 479
+  hl-color:: yellow
+  id:: 68d4a9c6-9873-4ef8-95a5-722f65c4805d
+- “ 罗 老 师 ， 昨 天 下 了 那 么 多 雨 ， 为 什 么 雪 山 上 的 雪 没 被 冲 掉呢？”庄颜问。
+  ls-type:: annotation
+  hl-page:: 481
+  hl-color:: yellow
+  id:: 68e5d920-b01a-4666-b62d-2d6826ee589c
+- 船停泊在湖对岸的栈桥上，有一辆敞篷吉普车停在湖岸的林边，把车开来的人已经离去了。
+  ls-type:: annotation
+  hl-page:: 483
+  hl-color:: yellow
+  id:: 6904584f-c723-4b9a-9d3d-abdc879a646b
+- 以后他们一路沉默，直到林木渐渐稀疏，碧蓝的天空露了出来。
+  ls-type:: annotation
+  hl-page:: 485
+  hl-color:: yellow
+  id:: 6923b421-98b6-462c-a8a6-4ff3c1b1c1a0
+- 这时，森林已经完全消失了，雪山的前面只剩下草原，在银白和嫩绿两种色彩中，世界的构图显得更加简洁和单纯了，在罗辑的感觉中，面前的大自然正在变得越来越像身边这位少女。
+  ls-type:: annotation
+  hl-page:: 486
+  hl-color:: yellow
+  id:: 6923bc31-30da-48f0-8f85-0d8584fada79
+- 公路开始上山，随着高度的增加，植被渐渐稀疏，出现了裸露的黑色岩石，有一段路，他们仿佛行驶在月球表面。
+  ls-type:: annotation
+  hl-page:: 488
+  hl-color:: yellow
+  id:: 696d8d23-9c90-4e8f-a6fd-1db7cac16b87
+- 当泰勒眼睛上的蒙布被摘掉时，他并没有因不适应光亮而眯眼，这里很暗，其实即使有很亮的灯，这里仍是暗的，因为光线被岩壁吸收了，这是一个山洞。
+  ls-type:: annotation
+  hl-page:: 491
+  hl-color:: yellow
+  id:: 69af6ee4-d399-4403-8a0c-1b689b493c20
