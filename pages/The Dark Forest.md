@@ -4,10 +4,7 @@ background-color:: purple
 	- ![三体中文全集](../assets/三体全集 (刘慈欣) (Z-Library).pdf)
 - # 视频笔记整理
   background-color:: purple
-	- [[黑暗森林第五章-9]]
-	- [[黑暗森林第五章-10]]
-	- [[黑暗森林第五章-11]]
-	- [[黑暗森林第五章-12]]
+	- [[Contents]]
 -
 -
 -

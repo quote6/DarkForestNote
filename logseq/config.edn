@@ -421,5 +421,5 @@
  :file/name-format :triple-lowbar
  :graph/settings {:journal? false}
  :feature/enable-journals? false
- :default-home {}
+ :default-home {:page "Contents"}
  :publishing/all-pages-public? true}
