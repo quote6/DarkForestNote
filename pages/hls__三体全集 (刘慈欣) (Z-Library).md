@@ -131,3 +131,8 @@ file-path:: ../assets/三体全集 (刘慈欣) (Z-Library).pdf
   hl-page:: 491
   hl-color:: yellow
   id:: 69af6ee4-d399-4403-8a0c-1b689b493c20
+- 后面这句话中的讥讽意味刺痛了泰勒，但说的也确实是事实。泰勒以前最恐惧的事情就是这人病死或老死。
+  ls-type:: annotation
+  hl-page:: 492
+  hl-color:: yellow
+  id:: 69d36a2f-6ef9-46a1-89ab-39f40b70da5b

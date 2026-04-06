@@ -136,3 +136,8 @@ file-path:: ../assets/The_Dark_Forest_-_Cixin_Liu_1720881737632_0.pdf
   hl-page:: 175
   hl-color:: yellow
   id:: 69af6cf1-6c09-42c3-bce9-42f64c8196ef
+- The irony in this last sentence pricked Tyler, but it was the truth.
+  ls-type:: annotation
+  hl-page:: 176
+  hl-color:: yellow
+  id:: 69d365d0-d865-4ccb-974a-bdefd2d549c7
