@@ -4,4 +4,4 @@
 	  n.航行;乘船游览
 	- 【If a car, ship, or aircraft **cruises** somewhere, it moves there at a steady comfortable speed.】
 	  【a journey by sea, visiting different places, especially as a holiday/vacation】
-	- ![](https://img0.baidu.com/it/u=3030619263,3666254846&fm=253&fmt=auto&app=138&f=JPEG?w=570&h=228)
+	- ![](https://img0.baidu.com/it/u=3030619263,3666254846&fm=253&fmt=auto&app=138&f=JPEG?w=570&h=228){:height 236, :width 570}

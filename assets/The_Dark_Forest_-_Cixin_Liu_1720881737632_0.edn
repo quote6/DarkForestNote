@@ -732,5 +732,22 @@
                                    :height 1023.6470588235293}),
                           :page 176},
                :content {:text "The irony in this last sentence pricked Tyler, but it was the truth."},
+               :properties {:color "yellow"}}
+              {:id #uuid "69fbf5ed-f434-4b16-a3cf-56601d659df6",
+               :page 177,
+               :position {:bounding {:x1 121.171875,
+                                     :y1 670.015625,
+                                     :x2 604.0184326171875,
+                                     :y2 698.015625,
+                                     :width 790.9999999999999,
+                                     :height 1023.6470588235293},
+                          :rects ({:x1 121.171875,
+                                   :y1 670.015625,
+                                   :x2 604.0184326171875,
+                                   :y2 698.015625,
+                                   :width 790.9999999999999,
+                                   :height 1023.6470588235293}),
+                          :page 177},
+               :content {:text "“What else have you brought with you besides those books?”"},
                :properties {:color "yellow"}}],
- :extra {:page 175}}
+ :extra {:page 176}}

@@ -141,3 +141,8 @@ file-path:: ../assets/The_Dark_Forest_-_Cixin_Liu_1720881737632_0.pdf
   hl-page:: 176
   hl-color:: yellow
   id:: 69d365d0-d865-4ccb-974a-bdefd2d549c7
+- “What else have you brought with you besides those books?”
+  ls-type:: annotation
+  hl-page:: 177
+  hl-color:: yellow
+  id:: 69fbf5ed-f434-4b16-a3cf-56601d659df6
