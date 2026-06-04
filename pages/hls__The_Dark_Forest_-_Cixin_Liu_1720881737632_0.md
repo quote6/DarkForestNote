@@ -146,3 +146,8 @@ file-path:: ../assets/The_Dark_Forest_-_Cixin_Liu_1720881737632_0.pdf
   hl-page:: 177
   hl-color:: yellow
   id:: 69fbf5ed-f434-4b16-a3cf-56601d659df6
+- At the Fourth PDC Wallfacer Hearing, Tyler appeared fatigued from his long journey as he submitted revisions to his mosquito swarm plan. 
+  ls-type:: annotation
+  hl-page:: 179
+  hl-color:: yellow
+  id:: 6a211105-79ad-4f59-8703-35349d98a422

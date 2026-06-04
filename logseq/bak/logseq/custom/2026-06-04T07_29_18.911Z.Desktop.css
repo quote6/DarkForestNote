@@ -1146,8 +1146,8 @@ html[data-theme=dark][data-color=logseq] .cp__themes-installed .it:hover {
 
 .cm-s-lsradix.cm-s-light .CodeMirror-gutters,
 .cm-s-lsradix.cm-s-dark .CodeMirror-gutters {
-    /*background-color: inherit*/
-      background-color: var(--bf-codeblock-background-color)
+    /* background-color: inherit */
+    background-color: var(--bf-codeblock-background-color)
 }
 
 .extensions__code {
