@@ -4,5 +4,5 @@
 	  v.使疲乏;使劳累;使（肌肉，器官）衰竭
 	  adj.令人身心交瘁的；劳心劳力的
 	- 【a feeling of being extremely tired, usually because of hard work or exercise】
-	- ![](https://img0.baidu.com/it/u=2778307410,2539048741&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=504){:height 333, :width 294}
+	- ![](https://img0.baidu.com/it/u=2778307410,2539048741&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=504){:height 304, :width 294}
 -

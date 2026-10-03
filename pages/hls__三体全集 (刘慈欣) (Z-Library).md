@@ -141,3 +141,23 @@ file-path:: ../assets/三体全集 (刘慈欣) (Z-Library).pdf
   hl-page:: 493
   hl-color:: yellow
   id:: 69fbf60f-6ea1-408a-ba40-1fd6b640ce27
+- 罗辑和庄颜是在夜里十点钟走进卢浮宫大门的，坎特建议他们在晚上参观，这样在安全保卫方面好安排一些。
+  ls-type:: annotation
+  hl-page:: 495
+  hl-color:: yellow
+  id:: 6a3c899a-a558-4b2a-a143-24b5d9609359
+- “听说，如果专业地欣赏，看完这里的所有东西要一年时间。”罗辑说。
+  ls-type:: annotation
+  hl-page:: 496
+  hl-color:: yellow
+  id:: 6a5db2c5-6b0c-4f06-a78c-e554a1dd7125
+- 在修建金字塔入口前，卢浮宫是个大迷宫，在其中要到某个厅室可能要绕行很远，但现在可以从金字塔大厅直接去各个位置。
+  ls-type:: annotation
+  hl-page:: 497
+  hl-color:: yellow
+  id:: 6a768e49-c2e0-4e51-a4de-4e3101c7f345
+- “我们还是回去接着看油画吧。”庄颜小声说。
+  ls-type:: annotation
+  hl-page:: 498
+  hl-color:: yellow
+  id:: 6a95142d-bdb9-4f1a-8f31-3e9e9681e4fd

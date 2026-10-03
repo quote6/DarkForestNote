@@ -151,3 +151,28 @@ file-path:: ../assets/The_Dark_Forest_-_Cixin_Liu_1720881737632_0.pdf
   hl-page:: 179
   hl-color:: yellow
   id:: 6a211105-79ad-4f59-8703-35349d98a422
+- Luo Ji and Zhuang Yan walked toward the main entrance of the Louvre at ten P.M. Kent had advised them to visit at night to facilitate more convenient security.
+  ls-type:: annotation
+  hl-page:: 180
+  hl-color:: yellow
+  id:: 6a3c8981-c905-437d-a064-2508a4554c70
+- “I’ve heard that with a trained eye, it would take you a whole year to see all of the pieces here,” he said.
+  ls-type:: annotation
+  hl-page:: 181
+  hl-color:: yellow
+  id:: 6a5db22a-ad8b-466a-b216-8427c43744ad
+- Before the pyramid lobby was built, the Louvre was a giant maze. Getting to any particular gallery meant a long and winding detour. But now
+  ls-type:: annotation
+  hl-page:: 182
+  hl-color:: yellow
+  id:: 6a768e8b-9c90-426a-9083-c138d63d1ee7
+- you could go directly from the Hall Napoléon beneath the pyramid to any point in the museum.
+  ls-type:: annotation
+  hl-page:: 183
+  hl-color:: yellow
+  id:: 6a768e91-3570-4ab1-964c-0ac1dd396789
+- They returned to the Hall Napoléon, but forgot which entrance to use.
+  ls-type:: annotation
+  hl-page:: 184
+  hl-color:: yellow
+  id:: 6abdd4e4-c114-4e1c-a157-b772ca3a998e
