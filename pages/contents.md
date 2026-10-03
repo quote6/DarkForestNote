@@ -1,5 +1,3 @@
-public:: true
-
 - [[The Dark Forest]]
 - [[黑暗森林第五章-9]]
 - [[黑暗森林第五章-10]]
